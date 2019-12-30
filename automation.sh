@@ -1,3 +1,4 @@
 This is expmle file of shell script of automations
-harsha
-dfljsdlkfsjflksdf;s
+automation is the main concept behind schell scripting
+it is used in devops industry very huges
+
